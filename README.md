@@ -1,7 +1,7 @@
 # Daleks Invaders
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/DaleksInvaders/master/img/dalek-invaders.png">
+    <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/DaleksInvaders/master/img/dalek.png">
 </p>
 
 
